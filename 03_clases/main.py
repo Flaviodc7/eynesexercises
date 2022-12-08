@@ -66,3 +66,5 @@ while opcion != 3:
         chequearradio(radio)
     elif opcion == 2:
         circulo = multiplicarradio(circulo)
+    else:
+        print("Usted ha ingresado una opción incorrecta")
